@@ -1,3 +1,5 @@
+**Hide Email from Crawlers**
+
 A lot of times, you have to use email addresses on your website but you also suffer the consequence of having to look behind your back for spams, because bots can easily crawl your email and send spam messages to you mail box. You do not want that. 
 
 So I created this plugin to hide your email addresses from bots, this is called Email Obfuscation. 
